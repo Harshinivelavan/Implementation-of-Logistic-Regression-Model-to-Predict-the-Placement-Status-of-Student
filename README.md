@@ -26,5 +26,6 @@ RegisterNumber:
 ![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 
 
+
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
